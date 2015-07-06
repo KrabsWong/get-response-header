@@ -45,3 +45,5 @@ Accept-Ranges: none
 Cache-Control: private, max-age=0
 Expires: -1
 ```
+
+![执行效果图](https://raw.githubusercontent.com/yPangXie/get-response-header/master/screenshot/screenshot.png)
